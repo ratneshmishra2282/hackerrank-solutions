@@ -1,7 +1,6 @@
 ### This is a repository for Hackerrank Solutions to help you get familiar with open source and github.
 
-## Please read [CONTRIBUTING.md](https://github.com/chaturaja/hackerrank-solutions/blob/main/CONTRIBUTING.md) before starting.
-
+*CONTRIBUTING.md*
 # Please read the rules before contributing
 
 1. Add solutions for **Problem Solving**, **Python**, **C** and **C++** on *Hackerrank*.
