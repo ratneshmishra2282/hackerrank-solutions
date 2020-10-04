@@ -2,14 +2,10 @@
 #include <stdio.h>
 #include<math.h>
 
-void update(int *a,int *b) {
-    int na,nb;
-    na=*a+*b;
-    nb=abs(*a-*b);
-    *a=na;
-    *b=nb;
-
-    // Complete this function
+void update(int *a,int *b) {	
+    //better solution in c++	
+    *a = *a + *b ;
+    *b = abs(*a-2*(*b)); 
 }
 
 int main() {
