@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/apple-and-orange/problem
+// https://www.hackerrank.com/challenges/apple-and-orange/problem
 
 #include <assert.h>
 #include <limits.h>

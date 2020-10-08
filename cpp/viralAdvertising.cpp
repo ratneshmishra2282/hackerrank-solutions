@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/strange-advertising/problem
+// https://www.hackerrank.com/challenges/strange-advertising/problem
 
 #include <bits/stdc++.h>  
 
