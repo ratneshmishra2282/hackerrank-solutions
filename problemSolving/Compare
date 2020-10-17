@@ -1,0 +1,17 @@
+import java.util.*;
+import java.io.*;
+class compare
+{
+    public static void main(String []argh)
+    {
+        
+        try
+        {Scanner sc = new Scanner(System.in);
+        Long t=sc.nextLong();
+        if(t>Math.pow(2,63))
+        System.out.print("yes");
+        else
+        System.out.print("no");
+    }
+}
+}
